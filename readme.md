@@ -1,4 +1,4 @@
-# Employee Management System (EMS)
+# Employee Management System (EMS) - Educational Purposes
 
 A simple, menu-driven Employee Management System written in Python (Fundamentals of Programming).
 It focuses on **OOP**, **file handling**, and **exception handling**.
