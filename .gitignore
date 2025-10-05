@@ -1,0 +1,67 @@
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.build/
+dist/
+develop-eggs/
+pip-wheel-metadata/
+wheels/
+.installed.cfg
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.pytype/
+.pyre/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.venv*/
+venv*/
+env*/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Logs & local data
+*.log
+logs/
+tmp/
+temp/
+.cache/
+*.sqlite3
+
+# OS/archive clutter
+*.bak
+*.swp
+*.swo
+*.orig
+*.tmp
+*.tar
+*.tar.gz
+*.zip
+*.rar

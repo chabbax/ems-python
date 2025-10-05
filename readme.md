@@ -19,3 +19,9 @@ python -m pip install --upgrade pip
 pip install rich
 python main.py
 ```
+
+To deactivate the venv later:
+
+```bash
+deactivate
+```
